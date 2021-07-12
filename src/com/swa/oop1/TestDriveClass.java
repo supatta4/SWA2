@@ -4,7 +4,7 @@ public class TestDriveClass {
 	
 	 public static void main(String[] args) {
 	        Product p = new Product("P0001","Nintendo Switch");
-	        System.out.println(p.getDetailProduct());
+	        System.out.println(p.getDetail());
 	    }
 	 
 	}
